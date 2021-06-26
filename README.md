@@ -16,17 +16,13 @@ Step 2: cd into the cloned repo and run:
 npm install
 ```
 
-Step 3: Install & Run MongoDB (Linux Ubuntu)
-
-
-
-Step 4 (optional): If Nodemon not installed
+Step 3 (optional): If Nodemon not installed
 
 ```bash
 npm install -g nodemon
 ```
 
-Step 5: Start the application by
+Step 4: Start the application by
 
 ```bash
 npm start
