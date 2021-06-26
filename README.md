@@ -1,12 +1,8 @@
-# URL shortner application using NodeJs & MongoDB
 
-This is an example of how to make a application which shortens the url entered by the client.
-
-**MongoDB** is used for storing Users in Database.
 
 ---
 
-## To start setting up the project
+
 
 Step 1: Clone the repo
 
@@ -22,7 +18,7 @@ npm install
 
 Step 3: Install & Run MongoDB (Linux Ubuntu)
 
-See <https://docs.mongodb.com/manual/installation/> for more infos
+
 
 Step 4 (optional): If Nodemon not installed
 
